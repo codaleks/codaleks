@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Hi, I'm Aleksander !
 
 ⚡ Experienced in deep learning, anomaly detection, and quantum machine learning
 
